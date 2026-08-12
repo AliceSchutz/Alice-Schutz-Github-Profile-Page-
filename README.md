@@ -1,7 +1,7 @@
 
 ### Hello World👋
 
-I'm Vitor Schutz but here on the internet, you might know me as PixelNerd, I love programming and solving problems, I'm from Brazil and I have great experience with Game Development but currently I work as a Back-End Programmer in Python
+I'm Alice Schutz but here on the internet, you might know me as PixelNerd, I love programming and solving problems, I'm from Brazil and I have great experience with Game Development but currently I work as a Back-End Programmer in Python
 
 ### My work🔧
 
