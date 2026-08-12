@@ -14,18 +14,6 @@ I'm currently studying Information Technology at college but I have great knowle
 
 
 
-### Contact📫
-<div> 
-  <a href = "mailto:VitorSchutz1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vitorschutz/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
-  
- 
-
-  ##
-
-
 ### My hobbies🔭
 
 I love to observe and monitor the night sky especially on full moon days (Astronomy would be my career if I didn't like programming so much)
