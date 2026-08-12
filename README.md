@@ -1,7 +1,7 @@
 
 ### Hello World👋
 
-I'm Alice Schutz but here on the internet, you might know me as PixelNerd, I love programming and solving problems, I'm from Brazil and I have great experience with Game Development but currently I work as a Back-End Programmer in Python
+I'm Alice Schutz but here on the internet, you might know me as Angel, I love programming and solving problems, I'm from Brazil and I have great experience with Game Development but currently I work as a Back-End Programmer in Python
 
 ### My work🔧
 
@@ -9,7 +9,7 @@ I'm currently studying Information Technology at college but I have great knowle
 
 
   ##
-  ![Snake animation](https://github.com/VitorSchutz/VitorSchutz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AliceSchutz/AliceSchutz/blob/output/github-contribution-grid-snake.svg)
   ##
 
 
